@@ -7,3 +7,6 @@ numpy==1.23.5
 htmlmin==0.1.12
 jinja2==3.0.3
 
+streamlit==1.28.0
+pandas-profiling==3.6.2  # Older but stable version
+seaborn==0.12.2
